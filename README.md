@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I just initialized this, I will have to get it updated and working soon!
+In the meantime, check out 
+
+- www.frankefoster.com for my personal site and resume
+- @frankefoster for my Twitter handle
+- me@frankefoster.com for email
+- My awesome repos that I update as often as I can!
+
 <!--
 **analogpotato/analogpotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
