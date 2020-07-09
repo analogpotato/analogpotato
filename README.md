@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I just initialized this, I will have to get it updated and working soon!
-In the meantime, check out 
+
+In the meantime, check out: 
 
 - www.frankefoster.com for my personal site and resume
 - @frankefoster for my Twitter handle
