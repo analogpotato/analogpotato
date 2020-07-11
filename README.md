@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I just initialized this, I will have to get it updated and working soon!
+I just initialized this readme as it's a new feature, I will update it with more personal info and bio stuff soon!
 
 In the meantime, check out: 
 
