@@ -7,8 +7,10 @@ I am an iOS Developer with 2 years of teaching and coding experience.
 
 ## Current Projects
 Check out my starred projects below.
-
+<div>
 ### Sage RPG
+  </div>
+  
 ### Watch Wash
 ### ScanSpeak
 ### MyGluCast
