@@ -15,7 +15,7 @@ Check out my starred projects below.
 - me@frankefoster.com for email
 
 
-<center>[![Frank's github stats](https://github-readme-stats.vercel.app/api?username=analogpotato&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)</center>
+[![Frank's github stats](https://github-readme-stats.vercel.app/api?username=analogpotato&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
