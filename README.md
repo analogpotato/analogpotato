@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi I'm Frank 👋
 
 I just initialized this readme as it's a new feature, I will update it with more personal info and bio stuff soon!
 
