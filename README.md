@@ -15,7 +15,7 @@ Check out my starred projects below.
 ### Insulin Calculator
 
 
-### Personal Links
+## Personal Links
 
 - www.frankefoster.com for my personal site and resume
 - @frankefoster for my Twitter handle
