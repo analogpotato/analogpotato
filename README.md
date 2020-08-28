@@ -6,16 +6,19 @@
 I am an iOS Developer with 2 years of teaching and coding experience. 
 
 ## Current Projects
-Check out my starred projects below.
-<div>
+These are just a few of the projects I'm working on
+
 ### Sage RPG
-  </div>
-  
 ### Watch Wash
 ### ScanSpeak
 ### MyGluCast
 ### Insulin Calculator
 
+| Sage RPG | Watch Wash | Scan Speak | MyGluCast | Insulin Calc |
+|----------|------------|------------|-----------|--------------|
+|          |            |            |           |              |
+|          |            |            |           |              |
+|          |            |            |           |              |
 
 ## Personal Links
 
