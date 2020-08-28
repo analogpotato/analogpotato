@@ -1,5 +1,7 @@
 # Hi I'm Frank 👋
 
+### I’m an iOS developer who likes to make apps for iOS, iPadOS, watchOS and macOS. 
+
 I just initialized this readme as it's a new feature, I will update it with more personal info and bio stuff soon!
 
 In the meantime, check out: 
