@@ -2,18 +2,22 @@
 
 ### I’m an iOS developer who likes to make apps for iOS, iPadOS, watchOS and macOS. 
 
-I just initialized this readme as it's a new feature, I will update it with more personal info and bio stuff soon!
+### About Me
+I am an iOS Developer with 2 years of teaching and coding experience. 
 
-In the meantime, check out: 
+### Current Projects
+Check out my starred projects below.
+
+### Personal Links
 
 - www.frankefoster.com for my personal site and resume
 - @frankefoster for my Twitter handle
 - me@frankefoster.com for email
-- My awesome repos that I update as often as I can!
 
-[![Frank's github stats](https://github-readme-stats.vercel.app/api?username=analogpotato&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[Link button](http://example.com/){: .btn .btn-outline }
+<p align=center>[![Frank's github stats](https://github-readme-stats.vercel.app/api?username=analogpotato&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)</p>
+
+
 
 
 <!--
