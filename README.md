@@ -12,7 +12,7 @@ In the meantime, check out:
 - My awesome repos that I update as often as I can!
 
 [![Frank's github stats](https://github-readme-stats.vercel.app/api?username=analogpotato&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
+<button name="button" onclick="http://www.google.com">Click me</button>
 
 <!--
 **analogpotato/analogpotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
