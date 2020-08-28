@@ -9,6 +9,9 @@ In the meantime, check out:
 - me@frankefoster.com for email
 - My awesome repos that I update as often as I can!
 
+[![Frank's github stats](https://github-readme-stats.vercel.app/api?username=analogpotato)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **analogpotato/analogpotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
