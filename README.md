@@ -2,11 +2,18 @@
 
 ### I’m an iOS developer who likes to make apps for iOS, iPadOS, watchOS and macOS. 
 
-### About Me
+## About Me
 I am an iOS Developer with 2 years of teaching and coding experience. 
 
-### Current Projects
+## Current Projects
 Check out my starred projects below.
+
+### Sage RPG
+### Watch Wash
+### ScanSpeak
+### MyGluCast
+### Insulin Calculator
+
 
 ### Personal Links
 
@@ -16,6 +23,7 @@ Check out my starred projects below.
 
 
 [![Frank's github stats](https://github-readme-stats.vercel.app/api?username=analogpotato&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
