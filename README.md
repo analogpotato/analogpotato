@@ -20,7 +20,7 @@ These are just a few of the projects I'm working on
 - me@frankefoster.com for email
 
 
-[![Frank's github stats](https://github-readme-stats.vercel.app/api?username=analogpotato&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">[![Frank's github stats](https://github-readme-stats.vercel.app/api?username=analogpotato&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 
 
