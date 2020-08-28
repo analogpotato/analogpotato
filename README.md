@@ -9,7 +9,7 @@ In the meantime, check out:
 - me@frankefoster.com for email
 - My awesome repos that I update as often as I can!
 
-[![Frank's github stats](https://github-readme-stats.vercel.app/api?username=analogpotato)](https://github.com/anuraghazra/github-readme-stats)
+[![Frank's github stats](https://github-readme-stats.vercel.app/api?username=analogpotato)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
 
 <!--
