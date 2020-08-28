@@ -8,12 +8,6 @@ I am an iOS Developer with 2 years of teaching and coding experience.
 ## Current Projects
 These are just a few of the projects I'm working on
 
-### Sage RPG
-### Watch Wash
-### ScanSpeak
-### MyGluCast
-### Insulin Calculator
-
 | Sage RPG                                                       | Watch Wash                                                            | Reddit Code Challenge                                               | MyGluCast                                                                         |
 |----------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 | An app for managing your D&D/Pathfinder or Star Wars RPG games | A hand washing timer and reminder app exclusively for the Apple Watch | Search subreddits and display links from reddit using JSON/REST API | Machine learning project that uses personal health data to forecast blood glucose |
